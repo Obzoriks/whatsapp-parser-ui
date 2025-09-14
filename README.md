@@ -27,7 +27,7 @@ The app supports:
 
 ### 1. Clone the repository
 ```bash
-git clone git@github.com:username/whatsapp-export-parser.git
+git clone git@github.com:Obzoriks/whatsapp-parser-ui.git
 cd whatsapp-export-parser
 ````
 
